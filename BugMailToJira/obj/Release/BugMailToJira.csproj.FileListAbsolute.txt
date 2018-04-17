@@ -1,0 +1,13 @@
+C:\AutomateTools\BugMailCreateJira\BugMailToJira\BugMailToJira\bin\Release\BugMailToJira.exe.config
+C:\AutomateTools\BugMailCreateJira\BugMailToJira\BugMailToJira\obj\Release\BugMailToJira.csproj.ResolveComReference.cache
+C:\AutomateTools\BugMailCreateJira\BugMailToJira\BugMailToJira\bin\Release\BugMailToJira.exe
+C:\AutomateTools\BugMailCreateJira\BugMailToJira\BugMailToJira\bin\Release\BugMailToJira.pdb
+C:\AutomateTools\BugMailCreateJira\BugMailToJira\BugMailToJira\bin\Release\Atlassian.Jira.dll
+C:\AutomateTools\BugMailCreateJira\BugMailToJira\BugMailToJira\bin\Release\Microsoft.Office.Interop.Outlook.dll
+C:\AutomateTools\BugMailCreateJira\BugMailToJira\BugMailToJira\bin\Release\stdole.dll
+C:\AutomateTools\BugMailCreateJira\BugMailToJira\BugMailToJira\bin\Release\office.dll
+C:\AutomateTools\BugMailCreateJira\BugMailToJira\BugMailToJira\bin\Release\Atlassian.Jira.pdb
+C:\AutomateTools\BugMailCreateJira\BugMailToJira\BugMailToJira\bin\Release\Atlassian.Jira.xml
+C:\AutomateTools\BugMailCreateJira\BugMailToJira\BugMailToJira\bin\Release\office.xml
+C:\AutomateTools\BugMailCreateJira\BugMailToJira\BugMailToJira\obj\Release\BugMailToJira.exe
+C:\AutomateTools\BugMailCreateJira\BugMailToJira\BugMailToJira\obj\Release\BugMailToJira.pdb
